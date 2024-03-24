@@ -131,7 +131,7 @@ export default {
 }
 
 .input {
-  width: 100%;
+  width: 90%;
   padding: 8px;
   margin-bottom: 10px;
   border: 1px solid #ccc;
@@ -149,6 +149,7 @@ export default {
 .button-primary {
   background-color: #007bff;
   color: #fff;
+  margin-right: 95px;
 }
 
 .button-primary:hover {
